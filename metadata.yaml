@@ -1,11 +1,16 @@
 _repo: The-South-American-Tour_59715
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59715-h/images/cover.jpg
 creator:
   author:
     agent_name: Peck, Annie S.
     gutenberg_agent_id: '50585'
     url: http://www.gutenberg.org/2009/agents/50585
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59715#The-South-American-Tour
 gutenberg_issued: '2019-06-09'
 gutenberg_type: Text
 identifiers:
